@@ -1,0 +1,11 @@
+{
+  "dataset": "imdb",
+  "seed": 42,
+  "model_name": "distilbert-base-uncased",
+  "fine_tuning_mode": "frozen_encoder_classifier_head_only",
+  "test_macro_f1": 0.8227941207342201,
+  "test_accuracy": 0.8228,
+  "best_val_macro_f1": 0.8235898105474572,
+  "wandb_enabled": true,
+  "wandb_mode": "online"
+}

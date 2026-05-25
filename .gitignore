@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+wandb/
+outputs/models/*
+!outputs/models/.gitkeep
+*.pt
+*.bin
+*.csv
+.DS_Store
+.cache/
